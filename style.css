@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+html, body, #app {
+  margin: 0;
+  height: 100%;
+}
+
+canvas {
+  zoom: 0.5;
+  transform: scaleY(-1);
+}
